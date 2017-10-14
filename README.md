@@ -5,3 +5,6 @@
 > C:\Users\你的用户名\AppData\Roaming\npm\node_modules\remotedebug-ios-webkit-adapter\
 ## 注意事项
 * 暂时只提供win64的支持。
+## TO DO
+* [ ] 对win32的支持
+* [ ] 放弃对js文件的覆盖
